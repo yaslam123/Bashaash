@@ -9,8 +9,6 @@ import FeatureProduct from "@/components/Furniture/FeatureProduct";
 import FlashSale from "@/components/Furniture/FlashSale";
 import TabFeatures from "@/components/Furniture/TabFeatures";
 import Benefit from "@/components/Home1/Benefit";
-import dataTestimonial from "@/data/Testimonial.json";
-import Testimonial from "@/components/Furniture/Testimonial";
 import Instagram from "@/components/Furniture/Instagram";
 import Brand from "@/components/Home1/Brand";
 import Footer from "@/components/Footer/Footer";
