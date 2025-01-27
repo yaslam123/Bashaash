@@ -1,0 +1,697 @@
+[
+  {
+    "id": "1",
+    "category": "furniture",
+    "type": "Sofa",
+    "name": "Grand Chesterfield Sofa",
+    "gender": "both",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 1100,
+    "originPrice": 1290,
+    "brand": "sofas",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Sofas/fadhi-1.jpg", "/images/Sofas/fadhi-1.jpg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "quick shop",
+    "slug": "furniture"
+  },
+  {
+    "id": "2",
+    "category": "furniture",
+    "type": "Sofa",
+    "name": "King sofa",
+    "gender": "both",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 1200,
+    "originPrice": 1490,
+    "brand": "sofa",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Sofas/fadhi-2.jpeg", "/images/Sofas/fadhi-2.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "3",
+    "category": "furniture",
+    "type": "Sofa",
+    "name": "3 Seater Sofas",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1400,
+    "originPrice": 1600,
+    "brand": "sofa",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Sofas/fadhi-3.jpeg", "/images/Sofas/fadhi-3.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "4",
+    "category": "furniture",
+    "type": "Sofa",
+    "name": "Tuxedo Sofas",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1400,
+    "originPrice": 1600,
+    "brand": "sofa",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Sofas/fadhi-4.jpeg", "/images/Sofas/fadhi-4.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "5",
+    "category": "furniture",
+    "type": "Sofa",
+    "name": "Loveseat Sofas",
+    "gender": "both",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 1200,
+    "originPrice": 1490,
+    "brand": "sofa",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Sofas/fadhi-5.jpeg", "/images/Sofas/fadhi-5.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "6",
+    "category": "furniture",
+    "type": "Sofa",
+    "name": "Lawson Sofa",
+    "gender": "both",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 1200,
+    "originPrice": 1490,
+    "brand": "sofa",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Sofas/fadhi-6.jpeg", "/images/Sofas/fadhi-6.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "7",
+    "category": "furniture",
+    "type": "Sofa",
+    "name": "Modular Sofa",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1290,
+    "originPrice": 1490,
+    "brand": "sofa",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Sofas/fadhi-7.jpeg", "/images/Sofas/fadhi-7.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "8",
+    "category": "furniture",
+    "type": "Sofa",
+    "name": "Divan Sofa",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1380,
+    "originPrice": 1790,
+    "brand": "sofa",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Sofas/fadhi-8.jpeg", "/images/Sofas/fadhi-8.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "9",
+    "category": "furniture",
+    "type": "Sofa",
+    "name": "Recliner Sofa",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1800,
+    "originPrice": 2190,
+    "brand": "sofa",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Sofas/fadhi-9.jpeg", "/images/Sofas/fadhi-9.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+
+  {
+    "id": "10",
+    "category": "furniture",
+    "type": "Beds",
+    "name": "Canopy Bed",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1900,
+    "originPrice": 2290,
+    "brand": "bed",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Beds/jiif-1.jpeg", "/images/Beds/jiif-1.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "11",
+    "category": "furniture",
+    "type": "Beds",
+    "name": "Loft Bed",
+    "gender": "both",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 1900,
+    "originPrice": 2290,
+    "brand": "bed",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Beds/jiif-2.jpeg", "/images/Beds/jiif-2.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "12",
+    "category": "furniture",
+    "type": "Beds",
+    "name": "Sleigh Bed",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1900,
+    "originPrice": 2190,
+    "brand": "bed",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Beds/jiif-3.jpeg", "/images/Beds/jiif-3.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "13",
+    "category": "furniture",
+    "type": "Beds",
+    "name": "Futon Bed",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1380,
+    "originPrice": 1740,
+    "brand": "bed",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Beds/jiif-4.jpeg", "/images/Beds/jiif-4.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "14",
+    "category": "furniture",
+    "type": "Beds",
+    "name": "Trundle Bed",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1590,
+    "originPrice": 1890,
+    "brand": "bed",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Beds/jiif-5.jpeg", "/images/Beds/jiif-5.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "15",
+    "category": "furniture",
+    "type": "Tables",
+    "name": "Drop-Leaf Dining Table",
+    "gender": "both",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 800,
+    "originPrice": 1100,
+    "brand": "tables",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Tables/miis-1.jpeg", "/images/Tables/miis-1.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "16",
+    "category": "furniture",
+    "type": "Tables",
+    "name": "Banquet Dining Table",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 1100,
+    "originPrice": 100,
+    "brand": "tables",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Tables/miis-2.jpeg", "/images/Tables/miis-2.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "17",
+    "category": "furniture",
+    "type": "Tables",
+    "name": "Pub Dining Table",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 700,
+    "originPrice": 100,
+    "brand": "tables",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Tables/miis-3.jpeg", "/images/Tables/miis-3.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "18",
+    "category": "furniture",
+    "type": "Tables",
+    "name": "Pedestal Dining Table",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 400,
+    "originPrice": 100,
+    "brand": "tables",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/Tables/miis-4.jpeg", "/images/Tables/miis-4.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+
+  {
+    "id": "19",
+    "category": "furniture",
+    "type": "Tv-Units",
+    "name": "Modular TV Unit",
+    "gender": "both",
+    "new": true,
+    "sale": false,
+    "rate": 5,
+    "price": 300,
+    "originPrice": 100,
+    "brand": "tables",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/TvUnits/tv-1.jpg", "/images/TvUnits/tv-1.jpg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "20",
+    "category": "furniture",
+    "type": "Tv-Units",
+    "name": "Cabinet TV Unit",
+    "gender": "both",
+    "new": false,
+    "sale": false,
+    "rate": 5,
+    "price": 240,
+    "originPrice": 100,
+    "brand": "tables",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/TvUnits/tv-2.jpeg", "/images/TvUnits/tv-2.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  },
+  {
+    "id": "21",
+    "category": "furniture",
+    "type": "Tv-Units",
+    "name": "Hutch TV Unit",
+    "gender": "both",
+    "new": false,
+    "sale": true,
+    "rate": 5,
+    "price": 240,
+    "originPrice": 100,
+    "brand": "tables",
+    "sold": 21,
+    "quantity": 64,
+    "quantityPurchase": 1,
+    "sizes": [],
+    "variation": [
+      {
+        "color": "silver",
+        "colorCode": "#a1a2af",
+        "colorImage": "/images/product/1000x1000.png",
+        "image": "/images/product/1000x1000.png"
+      }
+    ],
+    "thumbImage": ["/images/TvUnits/tv-3.jpeg", "/images/TvUnits/tv-3.jpeg"],
+    "images": [
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
+    ],
+    "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
+    "action": "add to cart",
+    "slug": "furniture"
+  }
+]
